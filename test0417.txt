@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hello Niko!hello git!
 hello Niko!hello git!
 hello Niko!hello git!
@@ -10,3 +11,7 @@ hello Niko!hello git!
 hello Niko!hello git!
 hello Niko!hello git!
 hello Niko!hello git!master update
+hello!!~hello!!~hello!!~hello!!~!!!
+hello!!~!!!
+
+>>>>>>> dev01
